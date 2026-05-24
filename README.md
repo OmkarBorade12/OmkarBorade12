@@ -17,11 +17,12 @@
 ### 🔭 About Me
 
 - 🔭 Currently pursuing **B-Tech in Computer Engineering** at Sandip University (Expected 2026).
-- 🧠 AI/ML Developer Intern at **ZobLik International**, architecting RAG-based AI features and multi-agentic workflows.
+- 🧠 AI/ML Developer Intern at **Atronz Innovations** & **ZobLik International**, architecting RAG-based AI systems and multi-agentic workflows.
 - 🏗️ Specializing in **Full Stack Development (MERN & Next.js)**, **Generative AI / RAG**, and **Data Engineering**.
 - 💬 Ask me about **React.js, Next.js, Node.js, Python, LangChain, and Vector Databases**.
 - 🎯 Open to **Full Stack Developer / AI/ML Engineer / Software Engineer** roles.
 - 🌐 Portfolio: **[OmkarBorade12.github.io](https://OmkarBorade12.github.io)**
+- 📄 Resume: **[View Resume (PDF)](https://omkarborade12.github.io/OmkarBorade_Resume.pdf)**
 - 📫 Reach me at **[boradeomkar36@gmail.com](mailto:boradeomkar36@gmail.com)** or call **[+91 9373695329](tel:+919373695329)**.
 
 ---
@@ -138,7 +139,11 @@
 
 ### 💼 Experience
 
-* **AI/ML Developer Intern** | **ZobLik International** *(Present — Remote, India)*
+* **AI/ML Developer Intern** | **Atronz Innovations** *(Present — Remote, India)*
+  * Engineered advanced AI/ML solutions by designing RAG-powered architectures with LangChain and vector databases, building multi-agent workflows via n8n/LangFlow, and integrating LLMs through RESTful APIs to automate predictive analytics and intelligent decision-making.
+  * Developed and deployed scalable ML pipelines for preprocessing, feature engineering, and model optimization, collaborating with cross-functional teams to deliver enterprise-ready AI modules that improved recommendation accuracy and platform performance.
+
+* **AI/ML Developer Intern** | **ZobLik International** *(2026 — Remote, India)*
   * Architecting RAG-based AI features for platforms like CertifyNXT and Xyntara, utilizing LangChain and Vector Databases to automate deep resume parsing and generate real-time AI mock interview feedback.
   * Developing multi-agentic workflows and automated pipelines using n8n and LangFlow, integrating Large Language Models (LLMs) via RESTful APIs to enhance predictive scoring and candidate-job matching accuracy.
 
