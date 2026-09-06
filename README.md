@@ -1,186 +1,110 @@
-# Hi 👋, I'm Omkar Borade
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EC3013&height=150&section=header&text=OMKAR%20BORADE&fontSize=54&fontColor=FFFFFF&fontAlign=6&fontAlignY=42&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%C2%B7%20NASHIK%2C%20INDIA&descSize=15&descAlign=7&descAlignY=72&animation=fadeIn" width="100%" alt="Omkar Borade" />
 
-### Full Stack Developer | AI/ML Developer | Data & GenAI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=600&size=21&duration=2600&pause=700&color=EC3013&width=680&height=42&lines=MERN+%2B+Python+full-stack+engineer;RAG+and+generative+AI+integration;7+client+applications+shipped+end-to-end;B.E.+Computer+Science%2C+class+of+2026" alt="What I do" />
 
-<p align="center">
-  Building responsive web applications, RAG systems, and data-driven applications with a focus on seamless performance, intuitive user experience, and scalability.
-</p>
+**Full-Stack Software Engineer** with hands-on experience building and deploying scalable MERN and Python-based web applications, seeking to bring strong problem-solving skills, AI/RAG integration expertise, and a proven ability to deliver measurable performance improvements to a growth-focused engineering team.
 
-<p align="center">
-  <a href="https://github.com/OmkarBorade12">
-    <img src="https://komarev.com/ghpvc/?username=OmkarBorade12&label=Profile%20views&color=0e75b6&style=flat" alt="Omkar Borade Profile Views" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/VIEW%20THE%20PORTFOLIO%20%E2%86%97-EC3013?style=flat-square&labelColor=EC3013&color=EC3013)](https://omkar-borade-cinematic-portfolio-29a7ab08-40ab-4cbc-nm9niyuo5.vercel.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-201E1D?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarborade)
+[![Email](https://img.shields.io/badge/boradeomkar36%40gmail.com-201E1D?style=flat-square&logo=gmail&logoColor=white)](mailto:boradeomkar36@gmail.com)
 
 ---
 
-### 🔭 About Me
+## STACK
 
-- 🔭 Currently pursuing **B-Tech in Computer Engineering** at Sandip University (Expected 2026).
-- 🧠 AI/ML Developer Intern at **Atronz Innovations** & **ZobLik International**, architecting RAG-based AI systems and multi-agentic workflows.
-- 🏗️ Specializing in **Full Stack Development (MERN & Next.js)**, **Generative AI / RAG**, and **Data Engineering**.
-- 💬 Ask me about **React.js, Next.js, Node.js, Python, LangChain, and Vector Databases**.
-- 🎯 Open to **Full Stack Developer / AI/ML Engineer / Software Engineer** roles.
-- 🌐 Portfolio: **[OmkarBorade12.github.io](https://OmkarBorade12.github.io)**
-- 📄 Resume: **[View Resume (PDF)](https://omkarborade12.github.io/OmkarBorade_Resume.pdf)**
-- 📫 Reach me at **[boradeomkar36@gmail.com](mailto:boradeomkar36@gmail.com)** or call **[+91 9373695329](tel:+919373695329)**.
+**AI**
+![Generative AI](https://img.shields.io/badge/Generative_AI-EC3013?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-EC3013?style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-201E1D?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-201E1D?style=flat-square&logo=numpy&logoColor=white)
 
----
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-201E1D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-201E1D?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-201E1D?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-201E1D?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-201E1D?style=flat-square&logo=javascript&logoColor=white)
 
-### 🤝 Connect with me:
+**Frontend**
+![React](https://img.shields.io/badge/React-201E1D?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-201E1D?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-201E1D?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-201E1D?style=flat-square&logo=css3&logoColor=white)
 
-<p align="left">
-  <a href="https://linkedin.com/in/Omkar-Borade" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="background-color: transparent;" />
-  </a>
-  <a href="https://github.com/OmkarBorade12" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="40" style="background-color: #ffffff; border-radius: 6px; padding: 4px;" />
-  </a>
-</p>
-
----
-
-### 🛠️ Core Stack
-
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-
-  <!-- Frontend/Backend -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" alt="NextJS" width="40" height="40" style="filter: invert(1); background-color: transparent;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40" style="filter: invert(1);" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  </a>
-
-  <!-- Databases & Analysis -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  </a>
-
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
-  </a>
-
-  <!-- Tools / DevOps -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
-  </a>
-</p>
+**Data & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-201E1D?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-201E1D?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-201E1D?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-201E1D?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-201E1D?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-201E1D?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### ⭐ Featured Projects
+## EXPERIENCE
 
-* **AlgorySoft — Service Management Platform**
-  * **Role:** Full Stack / Lead Developer
-  * **Description:** Architected a high-performance service platform using Next.js and the MERN stack, leveraging Server-Side Rendering (SSR) to optimize SEO and reduce initial page load times for client interfaces. Engineered a dual-interface system for real-time synchronization of orders and payments, utilizing Next.js API routes and MongoDB to maintain data integrity across admin and client sessions.
-  * **Tech Stack:** `Next.js`, `React.js`, `Node.js`, `Express.js`, `MongoDB`, `JWT Authentication`, `REST APIs`.
+| | | |
+| :-- | :-- | :-- |
+| **AI/ML Engineer Intern** | Atronz Innovations — Remote, Bengaluru | Dec 2025 – May 2026 |
 
-* **Adaptive Career Mentor (RAG-based)**
-  * **Role:** AI/ML Developer
-  * **Description:** Built an AI-driven career guidance system using Retrieval-Augmented Generation (RAG) to provide personalized recommendations. Implemented NLP models for query analysis and knowledge base retrieval.
-  * **Tech Stack:** `Python`, `RAG`, `NLP`, `REST APIs`, `MongoDB`.
+Designed and shipped 7 full-stack web applications end-to-end using React and FastAPI, collaborating closely with the founding team to translate client requirements into working products. Embedded the OpenAI API into application workflows through carefully engineered prompts that returned structured JSON, then parsed and surfaced those LLM outputs directly within FastAPI endpoints.
 
-* **Number Plate Extraction System**
-  * **Role:** Developer
-  * **Description:** Developed a computer vision system utilizing OpenCV and Python to accurately capture, preprocess, and extract vehicle license plates from static images and live video streams.
-  * **Tech Stack:** `Python`, `OpenCV`, `Image Processing`, `Machine Learning`.
+| | | |
+| :-- | :-- | :-- |
+| **Full Stack Developer Intern** | Codevocado Pvt. Ltd. — Remote, Uttar Pradesh | Nov 2024 – Jan 2025 |
 
-* **Adequate Jurist Portal**
-  * **Role:** Full Stack Developer
-  * **Description:** Designed a web-based legal repository allowing users to fetch case information and legal resources. Built clean, responsive management dashboards and integrated robust authentication.
-  * **Tech Stack:** `MERN Stack` (`MongoDB`, `Express.js`, `React.js`, `Node.js`), `Bootstrap`, `REST APIs`.
+Developed a data-entry workflow application with React and Node.js that reduced manual processing effort by 30%. Secured the application with JWT-based authentication and leveraged MongoDB to support dynamic data storage across multiple users.
+
+| | | |
+| :-- | :-- | :-- |
+| **Web Developer Intern** | NPIT Solutions Pvt. Ltd — Nashik, Maharashtra | Jan 2023 – Mar 2023 |
+
+Built 3 responsive websites for clients using HTML, CSS, and JavaScript, lifting user engagement by 25%. Optimized site performance and cross-browser reliability, trimming page load time by 15% and cutting the bug count by 30%.
 
 ---
 
-### 💼 Experience
+## PROJECTS
 
-* **AI/ML Developer Intern** | **Atronz Innovations** *(Present — Remote, India)*
-  * Engineered advanced AI/ML solutions by designing RAG-powered architectures with LangChain and vector databases, building multi-agent workflows via n8n/LangFlow, and integrating LLMs through RESTful APIs to automate predictive analytics and intelligent decision-making.
-  * Developed and deployed scalable ML pipelines for preprocessing, feature engineering, and model optimization, collaborating with cross-functional teams to deliver enterprise-ready AI modules that improved recommendation accuracy and platform performance.
+### AlgorySoft — Service Management Platform
+`Next.js` `MERN` `JWT`
 
-* **AI/ML Developer Intern** | **ZobLik International** *(2026 — Remote, India)*
-  * Architecting RAG-based AI features for platforms like CertifyNXT and Xyntara, utilizing LangChain and Vector Databases to automate deep resume parsing and generate real-time AI mock interview feedback.
-  * Developing multi-agentic workflows and automated pipelines using n8n and LangFlow, integrating Large Language Models (LLMs) via RESTful APIs to enhance predictive scoring and candidate-job matching accuracy.
+Architected a high-performance service platform using Next.js and the MERN stack, leveraging Server-Side Rendering (SSR) to optimize SEO and reduce initial page load times for client interfaces. Engineered a dual-interface system for real-time synchronization of orders and payments, utilizing Next.js API routes and MongoDB to maintain data integrity across admin and client sessions.
 
-* **Full Stack Developer (MERN Stack)** | **Codevocado Pvt. Ltd** *(2024 — Remote, India)*
-  * Built and deployed responsive, device-independent web apps using React.js, Node.js, HTML, and CSS.
-  * Connected secure REST endpoints to handle dynamic application states.
-  * Applied modern UI/UX design guidelines to drive user accessibility and satisfaction.
-  * Maintained repository versioning and collaborative workflows with Git and GitHub.
+### Adaptive Career Mentor
+`Python` `RAG` `NLP`
 
-* **Web Developer** | **NPIT Solutions Pvt. Ltd** *(2022 — Nashik, India)*
-  * Created layout templates and optimized page performance with HTML, CSS, JavaScript, and Bootstrap.
-  * Authored modular, reusable front-end components across different layouts.
-  * Worked closely with senior developers to construct user flows based on requirements.
-  * Focused on rapid prototyping and iterative feedback loops.
+Built an AI-driven career guidance system using Retrieval-Augmented Generation (RAG) to provide personalized recommendations, leveraging NLP and dynamic knowledge retrieval. Implemented NLP models for analyzing user queries and retrieving relevant career pathways from a dynamic knowledge base.
+
+### Number Plate Extraction System
+`Python` `OpenCV`
+
+Developed an image processing solution using OpenCV and Python to detect and extract vehicle number plates, enhancing automation and accuracy in traffic monitoring. Utilized OpenCV, Python, and image preprocessing techniques for accurate detection under varying lighting and angles.
+
+[![All repositories](https://img.shields.io/badge/ALL%20REPOSITORIES%20%E2%86%97-201E1D?style=flat-square)](https://github.com/OmkarBorade12?tab=repositories)
 
 ---
 
-### 🎓 Education
+## THE NUMBERS
 
-* **B-Tech. Computer Engineering** — *Sandip University* *(Expected 2026)* | Grade: **8.19 SGPA**
-* **Diploma in Computer Engineering** — *K.K.Wagh Polytechnic (MSBTE)* *(Aug 2021 - Jun 2023)* | Grade: **73%**
-* **12th Grade (HSC)** — *Aarambh Mahavidhyalay (Maharashtra Board)* *(Aug 2019 - Jun 2021)* | Grade: **78%**
+<img src="https://github-readme-stats.vercel.app/api?username=OmkarBorade12&show_icons=true&hide_border=true&hide_title=true&card_width=420&bg_color=F3F2F2&title_color=EC3013&icon_color=EC3013&text_color=201E1D" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=OmkarBorade12&hide_border=true&background=F3F2F2&stroke=201E1D&ring=EC3013&fire=EC3013&currStreakNum=EC3013&currStreakLabel=201E1D&sideNums=201E1D&sideLabels=201E1D&dates=201E1D" height="165" alt="Commit streak" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarBorade12&bg_color=F3F2F2&color=201E1D&line=EC3013&point=201E1D&title_color=201E1D&area=true&area_color=EC3013&hide_border=true&radius=0" width="100%" alt="Contribution graph" />
 
-### 🏆 Certifications
-
-* 🎓 Multi AI Agent with CrewAI
-* 🕹️ Google Arcade Facilitator Program
-* 📊 Google Data Analytics Professional Certificate
-* 🌐 Web Developer Certification — *NPIT Solutions*
-* 💻 MERN Stack Developer Certification — *Codevocado Pvt Ltd*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBorade12&layout=compact&hide_border=true&card_width=420&bg_color=F3F2F2&title_color=EC3013&text_color=201E1D" height="150" alt="Top languages" />
 
 ---
 
-### 📊 GitHub Stats
+## EDUCATION & CERTIFICATIONS
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarBorade12&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="Top Languages Stats" />
-</p>
+**Bachelor of Engineering, Computer Science** — Sandip University, Aug 2023 – May 2026 · SGPA 8.26
+**Diploma in Computer Science** — KK Wagh Polytechnic College, MSBTE, 2021 – 2023 · 73%
+
+![crewAI](https://img.shields.io/badge/Multi_AI_Agent_with_crewAI-201E1D?style=flat-square)
+![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-201E1D?style=flat-square&logo=google&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-201E1D?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=EC3013&height=90&section=footer&text=LET%27S%20BUILD%20SOMETHING%20%E2%80%94%20boradeomkar36%40gmail.com&fontSize=20&fontColor=FFFFFF&fontAlign=32&fontAlignY=55&animation=fadeIn" width="100%" alt="Contact" />
