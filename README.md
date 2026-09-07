@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://omkar-borade-cinematic-portfolio-29a7ab08-40ab-4cbc-nm9niyuo5.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20THE%20PORTFOLIO%20%E2%86%97-EC3013?style=for-the-badge&labelColor=EC3013" alt="Portfolio" /></a>
-  <a href="www.linkedin.com/in/omkar-borade-46a323263"><img src="https://img.shields.io/badge/LinkedIn-201E1D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/omkar-borade-46a323263"><img src="https://img.shields.io/badge/LinkedIn-201E1D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:boradeomkar36@gmail.com"><img src="https://img.shields.io/badge/Email-201E1D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
